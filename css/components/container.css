@@ -1,0 +1,15 @@
+.container{
+  width: 200px;
+  margin: 0 auto;
+}
+.container h1 {
+  font-size: medium;
+  font-weight: 200;
+  display: flex;
+  align-items: center;
+  color:aquamarine;
+}
+
+.container p{
+  font-size: small;
+}
