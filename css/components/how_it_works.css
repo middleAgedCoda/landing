@@ -1,21 +1,22 @@
 .how-it-works{
-  border-radius: 10px;
+  border-radius: 30px;
   display:flex;
   justify-content: center;
-}
+  }
 
 .how-it-works p{
   font-size: medium;
   color: beige;
+  text-align: center;
 }
 
 .how-it-works h1{
-  font-weight: bold;
-  font-size: large;
+  font-weight: bolder;
+  font-size: larger;
   font-family: "Comfortaa", sans-serif;
   background-color: rgb(252, 244, 244);
   color: rgb(11, 22, 22);
   border-radius: 8px;
-  /* display: flex;
-  align-items: center; */
+  display: flex;
+  align-items: center;
 }

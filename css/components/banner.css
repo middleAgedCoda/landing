@@ -1,11 +1,13 @@
 .banner{
   background-size: cover;
+  width: 100%;
   background-position: center;
-  padding: 200px 0;
+  padding: 150px 0;
 }
 
 .banner img{
   object-fit: cover;
+  box-shadow: grey;
 }
 /*
 .banner h1{
@@ -15,7 +17,7 @@
 
 .banner h1 {
   margin: 0;
-  color: rgb(128, 117, 117);
+  color: rgb(252, 233, 233);
   text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
   font-size: 32px;
   font-weight: bold;
@@ -23,7 +25,7 @@
 
 .banner p {
   font-size: 20px;
-  color: rgb(192, 130, 130);
+  color: rgb(44, 224, 98);
   opacity: .7;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
 }

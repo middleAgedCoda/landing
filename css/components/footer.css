@@ -1,12 +1,26 @@
-footer{
-  border-radius: 8px;
+.footer {
+  background: #f1e8e8;
   display: flex;
   align-items: center;
-  box-shadow: 0 0 15px rgba(0,0,0,0.2);
-  background: grey;
+  justify-content: center;
+  height: 100px;
+  padding: 0px 50px;
+  color: rgba(0,0,0,0.3);
+  border-radius: 50px;
 }
-
-.footer h1{
-  font-size: large;
-  margin: 0;
+.footer-links {
+  display: flex;
+  justify-content: center;
+}
+.footer-links a {
+  color: rgb(22, 3, 3);
+  opacity: 0.15;
+  font-size: 24px;
+  padding: 10px;
+}
+.footer-links a:hover {
+  opacity: 1;
+}
+.footer .fa-heart {
+  color: #D23333;
 }

@@ -1,15 +1,23 @@
 .container{
-  width: 200px;
+  width: 900px;
   margin: 0 auto;
-}
+  display: flex;
+  align-items: center;
+  box-shadow: grey;
+  }
 .container h1 {
   font-size: medium;
   font-weight: 200;
   display: flex;
   align-items: center;
-  color:aquamarine;
+  color:rgb(52, 224, 95);
 }
 
 .container p{
   font-size: small;
+  color: rgb(20, 34, 34);
 }
+/*
+.container img{
+  object-fit: cover;
+} */

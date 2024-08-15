@@ -1,0 +1,20 @@
+.cards{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  }
+
+.card img{
+  width: 50%;
+  border-radius: 50%;
+  box-shadow: grey;
+}
+
+.card-info {
+  font-weight: small;
+  padding: 0px 20px 10px 20px;
+}
+
+.card p{
+  font-weight: bold;
+}
